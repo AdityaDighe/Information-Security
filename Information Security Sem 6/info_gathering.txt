@@ -1,0 +1,16 @@
+nslookup
+nslookup www.google.com
+
+tracer route
+tracert www.google.com
+
+whois
+enter the domain or ip on the website
+
+shodan
+enter the domain or ip on the website
+
+google dork
+inurl: "geeksforgeeks"
+
+nikto and nmap use kali software that requires linux to duel boot
