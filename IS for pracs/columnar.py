@@ -1,3 +1,4 @@
+#for double columnar just put the cipher text again in plaintext and create the matrix again and shuffle it acc to key order
 import random
 
 key = "Analyst"
